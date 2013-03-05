@@ -1,0 +1,8 @@
+{
+	"autoCompile": true,
+	"lessBaseDir": "B:\\84\\files\\page_template_objects_1610_files\\less",
+	"main_file": false,
+	"minify": true,
+	"outputDir": "B:\\84\\files\\page_template_objects_1610_files\\css",
+	"showErrorWithWindow": false
+}

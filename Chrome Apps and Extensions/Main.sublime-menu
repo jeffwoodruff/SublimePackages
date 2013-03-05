@@ -1,0 +1,32 @@
+[
+    {
+        "caption": "Chrome",
+        "mnemonic": "A",
+        "id": "chrome",
+        "children":
+        [
+            { "caption": "New App...", "mnemonic": "A",
+                "children": [
+                  { "command": "new_chrome", "args":{"name": "sampleapp_helloworld"}, "caption": "Hello world"}
+                ]
+            },
+            { "caption": "New Extension...", "mnemonic": "E",
+                "children": [
+                ]
+            },
+            { "caption": "-"},
+            { "command": "csp_validate_files", "caption": "Validate CSP", "mnemonic": "C" },
+            { "caption": "-"},
+            { "caption": "Docs and samples",
+                "children": [
+                  { "command": "open_url", "args": {"url": "https://github.com/GoogleChrome/chrome-app-samples"}, "caption": "Samples - Apps" },
+                  { "command": "open_url", "args": {"url": "http://developer.chrome.com/apps/about_apps.html"}, "caption": "Documentation - Apps" },
+                  { "command": "open_url", "args": {"url": "https://github.com/GoogleChrome/chrome-app-codelab#readme"}, "caption": "Codelab - Apps" },
+                  { "caption": "-"},
+                  { "command": "open_url", "args": {"url": "https://developer.chrome.com/extensions/samples.html"}, "caption": "Samples - Extensions" },
+                  { "command": "open_url", "args": {"url": "https://developer.chrome.com/extensions/"}, "caption": "Documentation - Extensions" }
+                ]
+            }
+        ]
+    }
+]

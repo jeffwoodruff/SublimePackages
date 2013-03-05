@@ -1,0 +1,48 @@
+[
+    {
+        "caption": "Themr: AppKit", 
+        "args": {
+            "t": "AppKit.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: ProKit", 
+        "args": {
+            "t": "ProKit.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: Default", 
+        "args": {
+            "t": "Default.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: Night", 
+        "args": {
+            "t": "Night.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: Soda Dark", 
+        "args": {
+            "t": "Soda Dark.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: Soda Light", 
+        "args": {
+            "t": "Soda Light.sublime-theme"
+        }, 
+        "command": "switch_theme"
+    }, 
+    {
+        "caption": "Themr: Reload themes", 
+        "command": "reload_themes"
+    }
+]

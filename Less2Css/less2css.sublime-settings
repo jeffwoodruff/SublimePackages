@@ -1,0 +1,19 @@
+/*
+ * Less2Css default settings
+ * 
+ * ******** IMPORTANT ********
+ *
+ * DO NOT modify this file,
+ * Copy the content to user settings
+ * via "Preferences" -> "Package Settings" -> "Less2Css" -> "Settings - User".
+ * 
+ */
+ 
+{
+  "lessBaseDir": "./",
+  "outputDir": "/css/./",
+  "minify": true,
+  "autoCompile": true,
+  "showErrorWithWindow": false,
+  "main_file": false
+}

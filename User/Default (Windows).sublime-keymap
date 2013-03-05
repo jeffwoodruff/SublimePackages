@@ -1,0 +1,11 @@
+[
+	{ "keys": ["alt+s"], "command": "less_to_css"},
+  	{ "keys": ["ctrl+k", "ctrl+d"], "command": "recessify"},
+	{ "keys": ["ctrl+alt+x"], "command": "prefixr" },
+	{ "keys": ["ctrl+shift+c"], "command": "css_sorter" },
+		{
+		"keys": ["ctrl+alt+c"],
+		"__doc__": "Run CSSLint",
+		"command": "csslint"
+	}
+]
